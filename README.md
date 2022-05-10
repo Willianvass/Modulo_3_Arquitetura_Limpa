@@ -10,10 +10,11 @@ Inicio do projeto desenvolvido durante o curso Formação ASP.NET Core do Métod
 
 Ao longo do curso serão apresentadas diversas ferramentas e tecnologias que foram aplicadas na API que foi desenvolvidas. Meus estudos estão em progresso mas as ferramentas principais são:
 
+- ✔️APS.NET Core (* Protocolo HTPP; * API REST; * SWAGGER; * Endpoints; * Injeção de Depêndencia;)
 - :heavy_check_mark:Swagger
 - :heavy_check_mark:Clean Architecture com as camadas Core, Infrastructure, Application e API
-- :heavy_check_mark:Persistência com Entity Framework Core
-- ✔️Arquitetura Limpa
+- :heavy_check_mark:Persistência com Entity Framework Core (* Persitência de Dados; * ORM - Object Relational Mapper; * DbContext / DbSet; * Pacotes CLI; * Entidades para Tabelas; * Refatorando; * Migrations; EF Core / Include; * Dapper ORM;)
+- ✔️Arquitetura Limpa (* Inversão de Depêndencia; * Camada Core; Camada Infrastructure; * Camada Application; * Camada API;) 
 - Command Query Responsibility Segregation (CQRS)
 - Padrão Repository
 - Validação de APIs
